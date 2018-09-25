@@ -1,2 +1,8 @@
 # babel-plugin-auto-reducer
-Auto reducer inject plugin
+---
+Reducer 自动注入插件
+
+## 安装
+npm install babel-plugin-auto-reducer
+
+## 使用
